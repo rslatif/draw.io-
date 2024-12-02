@@ -1,9 +1,49 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="jkQbMSVFU5XPwJCwVNmS">
-    <mxGraphModel>
+    <mxGraphModel dx="918" dy="884" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-201" y="-327" width="458" height="458" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-11" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-199" y="-299" width="456" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-15" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="-327" width="10" height="457" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-16" value="ATM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-171" y="-327" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-17" value="Bank system" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="84" y="-324" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-22" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;fontSize=12;entryX=0.214;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gAWKKwYR52MG0m6GFoxo-4">
+          <mxGeometry x="-0.2546" y="28" width="80" relative="1" as="geometry">
+            <mxPoint x="-103" y="-272" as="sourcePoint" />
+            <mxPoint x="-23" y="-272" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-23" value="Check the card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-215" width="98" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-25" value="Enter Pin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="-143" width="93" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-26" value="Display Option" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-138" y="-20" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-27" value="Eject the card" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="57" width="95" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-28" value="Check the pin number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="-143" width="103" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-29" value="Perform a transaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="-20" width="105" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
