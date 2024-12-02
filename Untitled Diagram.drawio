@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="3fxMSjQ7rwTdPUO5qJi_">
-    <mxGraphModel dx="774" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,8 +100,8 @@
             <mxPoint x="740" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kxptcHVH6vIHxeBeNfIf-25" value="Use Case diagram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="10" width="120" height="30" as="geometry" />
+        <mxCell id="kxptcHVH6vIHxeBeNfIf-28" value="&lt;h2&gt;Use case diagram&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
