@@ -44,8 +44,8 @@
         <mxCell id="gAWKKwYR52MG0m6GFoxo-29" value="Perform a transaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="101" y="-20" width="105" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="gAWKKwYR52MG0m6GFoxo-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="101" width="28" height="22" as="geometry" />
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-101.5" y="92" width="21" height="17" as="geometry" />
         </mxCell>
         <mxCell id="gAWKKwYR52MG0m6GFoxo-31" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-93.5" y="-162" width="11" height="22" as="geometry" />
