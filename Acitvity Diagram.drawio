@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gAWKKwYR52MG0m6GFoxo-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=6;" vertex="1" parent="1">
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-199" y="-324" width="458" height="458" as="geometry" />
         </mxCell>
-        <mxCell id="gAWKKwYR52MG0m6GFoxo-11" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-11" value="" style="line;strokeWidth=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="-199" y="-299" width="456" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gAWKKwYR52MG0m6GFoxo-15" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="gAWKKwYR52MG0m6GFoxo-15" value="" style="line;strokeWidth=3;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="28" y="-327" width="10" height="457" as="geometry" />
         </mxCell>
         <mxCell id="gAWKKwYR52MG0m6GFoxo-16" value="ATM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
